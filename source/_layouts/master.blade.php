@@ -23,7 +23,7 @@
                 <strong>{{ $page->site->title }}</strong><br>
                 <ul>
                   
-                    <li><a href="/posts">Posts</a></li>
+                    <li><a href="/posts">vài dòng</a></li>
               
                   
                 </ul>
