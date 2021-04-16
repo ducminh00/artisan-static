@@ -4,10 +4,10 @@ permalink: 404.html
 
 @extends('_layouts.master')
 
-@section('title', 'Page not found')
+@section('title', 'đi đâu?')
 
 @section('content')
-    <h1>404 Error</h1>
+    <h1> xin chào, </h1>
 
-    <p>The page you were trying to access could not be found.</p>
+    <p>nhấn vào posts.</p>
 @endsection
