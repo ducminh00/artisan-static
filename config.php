@@ -4,12 +4,12 @@ return [
     'production' => false,
     'baseUrl' => 'https://nam-le.netlify.app/',
     'site' => [
-        'title' => 'My Blog',
-        'description' => 'Personal blog .',
-        'image' => 'default-share.png',
+        'title' => '',
+        'description' => '',
+        'image' => '',
     ],
     'owner' => [
-        'name' => 'Nam Le ',
+        'name' => 'ai đây?',
         
     ],
     'services' => [
