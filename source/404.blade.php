@@ -9,5 +9,5 @@ permalink: 404.html
 @section('content')
     <h1> xin chào, </h1>
 
-    <p>nhấn vào posts.</p>
+    <p>nhấn vào vài dòng.</p>
 @endsection
