@@ -10,14 +10,12 @@ return [
     ],
     'owner' => [
         'name' => 'Nam Le ',
-        'twitter' => 'johndoe',
-        'github' => 'johndoe',
+        
     ],
     'services' => [
         'cmsVersion' => '2.10.111',
         'analytics' => 'UA-XXXXX-Y',
-        'disqus' => 'artisanstatic',
-        'formcarry' => 'XXXXXXXXXXXX',
+        'disqus' => 'disqus_Sl1FolgPm7',
         'cloudinary' => [
             'cloudName' => 'nam-le',
             'apiKey' => '377554192597786',
